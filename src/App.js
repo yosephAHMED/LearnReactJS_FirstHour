@@ -1,5 +1,7 @@
 import React from 'react';
 import MyInfo from './components/MyInfo';
+import Navbar from './components/Navbar';
+import Footer from './components/Footer';
 
 // Objective 1
 // Fill in the boilerplate React code required to render an
@@ -13,6 +15,8 @@ function App() {
     // I can enclose all tags in a div, or comment out the <h1> tag
 
     <div>
+      <Navbar />
+
       <h1>Hello world!</h1>
       <ul>
         <li>Peaches</li>
@@ -21,6 +25,8 @@ function App() {
       </ul>
 
       <MyInfo />
+
+      <Footer />
     </div>
   );
 }

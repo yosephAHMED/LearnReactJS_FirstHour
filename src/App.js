@@ -1,4 +1,6 @@
 import React from 'react';
+import MyInfo from './components/MyInfo';
+
 // Objective 1
 // Fill in the boilerplate React code required to render an
 // unordered list (<ul>) to the page. The list should contain 3 list items
@@ -17,6 +19,8 @@ function App() {
         <li>Apples</li>
         <li>Bananas</li>
       </ul>
+
+      <MyInfo />
     </div>
   );
 }

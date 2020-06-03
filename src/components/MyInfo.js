@@ -10,7 +10,7 @@ import './myInfo.css';
 
 function MyInfo() {
     return (
-        <div class="myInfo">
+        <div class="my_Info">
             <h1>Yoseph Ahmed</h1>
             <h2>Task 2</h2>
             <p>Hello. I love Computer Science and going for jogs with friends.</p>

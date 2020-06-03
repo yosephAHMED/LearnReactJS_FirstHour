@@ -1,25 +1,25 @@
-.myInfo {
+.my_Info {
     border: 2px solid blue;
     padding: 10px;
 }
 
-.myInfo h1 {
+.my_Info h1 {
     text-align: center;
 }
 
-.myInfo h2 {
+.my_Info h2 {
     text-align:center;
 }
 
-.myInfo p {
+.my_Info p {
     text-align: center;
 }
 
-.myInfo ul {
+.my_Info ul {
     border: 2px solid red;
 }
 
-.myInfo li {
+.my_Info li {
     text-align: center;
     list-style-type: none;
 }

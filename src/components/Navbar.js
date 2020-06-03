@@ -1,4 +1,5 @@
 import React from 'react';
+import './navbar.css';
 
 // Objective 3
 // 1. Set up a navbar component and render it in the App component
@@ -6,7 +7,7 @@ import React from 'react';
 
 function Navbar() {
     return(
-        <div>
+        <div className="navbar">
             <label>Home</label>
             <label>Contact Me</label>
             <label>FAQ</label>

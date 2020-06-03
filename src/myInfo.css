@@ -1,0 +1,21 @@
+.myInfo {
+    border: 2px solid blue;
+    padding: 10px;
+}
+
+.myInfo h1 {
+    text-align: center;
+}
+
+.myInfo p {
+    text-align: center;
+}
+
+.myInfo ul {
+    border: 2px solid red;
+}
+
+.myInfo li {
+    text-align: center;
+    list-style-type: none;
+}

@@ -1,4 +1,5 @@
 import React from 'react';
+import './myInfo.css';
 // Objective 2
 // 1. Create a functional component called MyInfo that returns the following UI
 // a. An h1 with your name
@@ -9,7 +10,7 @@ import React from 'react';
 
 function MyInfo() {
     return (
-        <div>
+        <div class="myInfo">
             <h1>Yoseph Ahmed</h1>
             <p>Hello. I love Computer Science and going for jogs with friends.</p>
             <ul>
